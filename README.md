@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm RAIT-09 👋</h1>
 
-📍 Osaka, Japan
+🇯🇵 Osaka, Japan
 
 🎓 Graduate student at Ritsumeikan University
 
