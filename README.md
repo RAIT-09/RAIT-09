@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/c7c6650c-d31a-4d95-9a33-a048e56514f1
 ## Now Playing
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0re3q88uh9ob88mz5un6spv2e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0re3q88uh9ob88mz5un6spv2e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0re3q88uh9ob88mz5un6spv2e&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
