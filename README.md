@@ -5,23 +5,6 @@
 
 🎓 Graduate student at Ritsumeikan University
 
-Interested in Web Development.
-
-I love Obsidian so much that I built a plugin for it.
-
-## 🚀 Featured Project
-
-### [obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client)
-Bring AI agents into Obsidian via Agent Client Protocol (ACP).
-
-Chat with Claude Code, Codex, Gemini CLI directly from your vault.
-
-![Stars](https://img.shields.io/github/stars/RAIT-09/obsidian-agent-client?style=social)
-
-
-https://github.com/user-attachments/assets/c7c6650c-d31a-4d95-9a33-a048e56514f1
-
-
 ## Now Playing
 
 <p align="center">
