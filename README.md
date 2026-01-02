@@ -2,9 +2,11 @@
 <h1 align="center">Hi, I'm RAIT-09 👋</h1>
 
 📍 Osaka, Japan
+
 🎓 Graduate student at Ritsumeikan University
 
 Interested in Web Development.
+
 I love Obsidian so much that I built a plugin for it.
 
 ## 🚀 Featured Project
